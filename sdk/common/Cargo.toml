@@ -1,0 +1,9 @@
+[package]
+name = "azure-sdk-for-rust-common"
+version = "0.1.0"
+authors = ["Ian Davis <ian.f.davis@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
